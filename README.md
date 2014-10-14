@@ -1,4 +1,4 @@
-rising-from-rubble
+Rising from the Rubble
 ==================
 
-Special report 1 year after the 2013 earthquake that devastated parts of Bohol and Cebu.
+This repository is for the ebook and app versions of our "Rising From The Rubble: Bohol and Cebu One Year After" special report.
